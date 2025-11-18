@@ -88,15 +88,15 @@ layout_mode = 2
 
 [node name="Button" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "asds"
+text = "jayden huang"
 
 [node name="Button2" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "Test1"
+text = "is"
 
 [node name="Button3" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "test2"
+text = "a nice peson"
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="VBoxContainer"]
 unique_name_in_owner = true
